@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemChatPublic"
+        android:icon="@drawable/ic_public"
+        android:title="Chat Public" />
+    <item
+        android:id="@+id/itemChatPrivate"
+        android:icon="@drawable/ic_chat"
+        android:title="Chat Private" />
+    <item
+        android:id="@+id/itemFilters"
+        android:icon="@drawable/ic_filter"
+        android:title="Filters" />
+    <item
+        android:id="@+id/itemProfile"
+        android:icon="@drawable/ic_personpin"
+        android:title="Profile" />
+
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "758543420036",
+    "project_id": "socialchat-817af",
+    "storage_bucket": "socialchat-817af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758543420036:android:1e855091419c6c0aa290d1",
+        "android_client_info": {
+          "package_name": "com.optic.socialchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758543420036-gidf84aif79s14lsdoc46dl9fja97bs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optic.socialchat",
+            "certificate_hash": "fa05cbedb67d855e16604c75ed36ff619ba212a3"
+          }
+        },
+        {
+          "client_id": "758543420036-rm98kj0p4fmtpsjmrmmg22oj97hj5a7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQZ7erkfY1XQ-sj9v66LldUL9Z6eAk9cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758543420036-rm98kj0p4fmtpsjmrmmg22oj97hj5a7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
